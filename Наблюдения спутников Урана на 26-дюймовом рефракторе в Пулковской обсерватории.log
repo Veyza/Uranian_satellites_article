@@ -1,0 +1,368 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.9)  21 JUN 2016 11:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Наблюдения спутников Урана на 26-дюймовом 
+рефракторе в Пулковской обсерватории.tex"
+
+(./Наблюдения спутников Урана на 26-дюймовом 
+рефракторе в Пулковской обсерватории.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, bu
+lgarian, ukrainian, russian, loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
+File: koi8-r.def 1999/11/16 v1.0d Input encoding file
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/russianb.ldf
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 199.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen114
+\WF@size=\dimen115
+\c@WF@wrappedlines=\count92
+\WF@box=\box26
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+)
+(./Наблюдения спутников Урана на 26-дюймовом 
+рефракторе в Пулковской обсерватории.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `"Наблюдения спутников Урана на 26-дюй
+мовом рефракторе в Пулковской обсерватори�
+�.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=681.15898pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen116
+\scratchbox=\box27
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen117
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+
+ []
+
+<images/K.png, id=15, 903.375pt x 451.6875pt>
+File: images/K.png Graphic file (type png)
+ <use images/K.png>
+Package pdftex.def Info: images/K.png used on input line 107.
+(pdftex.def)             Requested size: 188.8096pt x 94.40228pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--110
+\T2A/cmr/m/n/10 ��-��-��-���-��� ����-��-���� � ���-���-��� ����-��-���� �����-
+��-��-��.
+ []
+
+[2] <images/Ariel_Lainey_RA.png, id=24, 903.375pt x 301.125pt>
+File: images/Ariel_Lainey_RA.png Graphic file (type png)
+
+<use images/Ariel_Lainey_RA.png>
+Package pdftex.def Info: images/Ariel_Lainey_RA.png used on input line 136.
+(pdftex.def)             Requested size: 231.2979pt x 77.096pt.
+
+<images/Umbriel_Lainey_RA.png, id=25, 903.375pt x 301.125pt>
+File: images/Umbriel_Lainey_RA.png Graphic file (type png)
+
+<use images/Umbriel_Lainey_RA.png>
+Package pdftex.def Info: images/Umbriel_Lainey_RA.png used on input line 139.
+(pdftex.def)             Requested size: 231.2979pt x 77.096pt.
+
+<images/Ariel_Lainey_DEC.png, id=26, 903.375pt x 301.125pt>
+File: images/Ariel_Lainey_DEC.png Graphic file (type png)
+
+<use images/Ariel_Lainey_DEC.png>
+Package pdftex.def Info: images/Ariel_Lainey_DEC.png used on input line 144.
+(pdftex.def)             Requested size: 231.2979pt x 77.096pt.
+
+<images/Umbriel_Lainey_DEC.png, id=27, 903.375pt x 301.125pt>
+File: images/Umbriel_Lainey_DEC.png Graphic file (type png)
+
+<use images/Umbriel_Lainey_DEC.png>
+Package pdftex.def Info: images/Umbriel_Lainey_DEC.png used on input line 147.
+(pdftex.def)             Requested size: 231.2979pt x 77.096pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/Titania_Lainey_RA.png, id=28, 903.375pt x 301.125pt>
+File: images/Titania_Lainey_RA.png Graphic file (type png)
+
+<use images/Titania_Lainey_RA.png>
+Package pdftex.def Info: images/Titania_Lainey_RA.png used on input line 154.
+(pdftex.def)             Requested size: 231.2979pt x 77.096pt.
+
+<images/Oberon_Lainey_RA.png, id=29, 903.375pt x 301.125pt>
+File: images/Oberon_Lainey_RA.png Graphic file (type png)
+
+<use images/Oberon_Lainey_RA.png>
+Package pdftex.def Info: images/Oberon_Lainey_RA.png used on input line 157.
+(pdftex.def)             Requested size: 231.2979pt x 77.096pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/Titania_Lainey_DEC.png, id=30, 903.375pt x 301.125pt>
+File: images/Titania_Lainey_DEC.png Graphic file (type png)
+
+<use images/Titania_Lainey_DEC.png>
+Package pdftex.def Info: images/Titania_Lainey_DEC.png used on input line 162.
+(pdftex.def)             Requested size: 231.2979pt x 77.096pt.
+
+<images/Oberon_Lainey_DEC.png, id=31, 903.375pt x 301.125pt>
+File: images/Oberon_Lainey_DEC.png Graphic file (type png)
+
+<use images/Oberon_Lainey_DEC.png>
+Package pdftex.def Info: images/Oberon_Lainey_DEC.png used on input line 165.
+(pdftex.def)             Requested size: 231.2979pt x 77.096pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./images/K.png> <./images/Ariel_Lainey_RA.png> <./images/Umbriel_Lainey_RA.
+png>] [4 <./images/Ariel_Lainey_DEC.png> <./images/Umbriel_Lainey_DEC.png> <./i
+mages/Titania_Lainey_RA.png> <./images/Oberon_Lainey_RA.png> <./images/Titania_
+Lainey_DEC.png> <./images/Oberon_Lainey_DEC.png>]
+(./Наблюдения спутников Урана на 26-дюймовом 
+рефракторе в Пулковской обсерватории.aux) ) 
+Here is how much of TeX's memory you used:
+ 2889 strings out of 494816
+ 40807 string characters out of 3177879
+ 108841 words of memory out of 3000000
+ 6030 multiletter control sequences out of 15000+200000
+ 12900 words of font info for 31 fonts, out of 3000000 for 9000
+ 198 hyphenation exceptions out of 8191
+ 37i,8n,24p,1341b,282s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </
+home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1000.600pk> </home/veyza/.t
+exmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/veyza/.texmf-var/font
+s/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/veyza/.texmf-var/fonts/pk/ljfour/l
+h/lh-t2a/labx0900.600pk> </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm
+1200.600pk> </home/veyza/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy7.pfb>
+Output written on "Наблюдения спутников Урана на 26-�
+�юймовом рефракторе в Пулковской обсервато
+рии.pdf" (4 pages, 247834 bytes).
+PDF statistics:
+ 332 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
