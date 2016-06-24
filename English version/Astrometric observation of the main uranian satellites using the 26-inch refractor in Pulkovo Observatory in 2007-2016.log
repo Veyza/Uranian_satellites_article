@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.9)  23 JUN 2016 15:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.9)  24 JUN 2016 12:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -239,16 +239,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 18.
-
-Overfull \hbox (9.57704pt too wide) in paragraph at lines 26--26
-[]\T2A/cmr/m/n/10 In the twentieth century the photographic observations of Ura
-nus were performed in the Pulkovo Observatory
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 31.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -298,9 +293,6 @@ Package pdftex.def Info: ../images/Umbriel_Lainey_DEC.png used on input line 14
 8.
 (pdftex.def)             Requested size: 231.2979pt x 77.096pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 <../images/Titania_Lainey_RA.png, id=28, 903.375pt x 301.125pt>
 File: ../images/Titania_Lainey_RA.png Graphic file (type png)
 
@@ -340,16 +332,16 @@ Package pdftex.def Info: ../images/Oberon_Lainey_DEC.png used on input line 166
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [3 <../images/K.png> <../images/Ariel_Lainey_RA.png> <../images/Umbriel_Lainey_
-RA.png>] [4 <../images/Ariel_Lainey_DEC.png> <../images/Umbriel_Lainey_DEC.png>
- <../images/Titania_Lainey_RA.png> <../images/Oberon_Lainey_RA.png> <../images/
-Titania_Lainey_DEC.png> <../images/Oberon_Lainey_DEC.png>] [5]
+RA.png> <../images/Ariel_Lainey_DEC.png> <../images/Umbriel_Lainey_DEC.png>]
+[4 <../images/Titania_Lainey_RA.png> <../images/Oberon_Lainey_RA.png> <../image
+s/Titania_Lainey_DEC.png> <../images/Oberon_Lainey_DEC.png>] [5]
 (./Astrometric observation of the main uranian satellites using the 26-inch ref
 ractor in Pulkovo Observatory in 2007-2016.aux) ) 
 Here is how much of TeX's memory you used:
- 2888 strings out of 494816
- 40655 string characters out of 3177879
- 108852 words of memory out of 3000000
- 6030 multiletter control sequences out of 15000+200000
+ 2889 strings out of 494816
+ 40658 string characters out of 3177879
+ 108856 words of memory out of 3000000
+ 6031 multiletter control sequences out of 15000+200000
  12026 words of font info for 30 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
  37i,8n,24p,1314b,282s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -368,10 +360,10 @@ s/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 >
 Output written on "Astrometric observation of the main uranian satellites using
- the 26-inch refractor in Pulkovo Observatory in 2007-2016.pdf" (5 pages, 24616
-9 bytes).
+ the 26-inch refractor in Pulkovo Observatory in 2007-2016.pdf" (5 pages, 24898
+3 bytes).
 PDF statistics:
- 324 PDF objects out of 1000 (max. 8388607)
+ 334 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
