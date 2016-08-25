@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.9)  22 AUG 2016 10:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.2.9)  24 AUG 2016 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -231,7 +231,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60 \\
+l.46 $
+      r_i = \sqrt{(x_i-x_0)^2 + (y_i-y_0)^2}$,\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \\
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -244,7 +257,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 
+l.87 
      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -253,7 +266,7 @@ or  <return>  to continue without it.
 [2] <../images/K.png, id=23, 903.375pt x 451.6875pt>
 File: ../images/K.png Graphic file (type png)
  <use ../images/K.png>
-Package pdftex.def Info: ../images/K.png used on input line 106.
+Package pdftex.def Info: ../images/K.png used on input line 132.
 (pdftex.def)             Requested size: 188.8096pt x 94.40228pt.
 
 [3 <../images/K.png>]
@@ -261,14 +274,14 @@ Package pdftex.def Info: ../images/K.png used on input line 106.
 File: ../images/Ariel_Lainey_RA.png Graphic file (type png)
 
 <use ../images/Ariel_Lainey_RA.png>
-Package pdftex.def Info: ../images/Ariel_Lainey_RA.png used on input line 140.
+Package pdftex.def Info: ../images/Ariel_Lainey_RA.png used on input line 166.
 (pdftex.def)             Requested size: 231.2979pt x 77.096pt.
 
 <../images/Umbriel_Lainey_RA.png, id=30, 903.375pt x 301.125pt>
 File: ../images/Umbriel_Lainey_RA.png Graphic file (type png)
 
 <use ../images/Umbriel_Lainey_RA.png>
-Package pdftex.def Info: ../images/Umbriel_Lainey_RA.png used on input line 143
+Package pdftex.def Info: ../images/Umbriel_Lainey_RA.png used on input line 169
 .
 (pdftex.def)             Requested size: 231.2979pt x 77.096pt.
 
@@ -276,7 +289,7 @@ Package pdftex.def Info: ../images/Umbriel_Lainey_RA.png used on input line 143
 File: ../images/Ariel_Lainey_DEC.png Graphic file (type png)
 
 <use ../images/Ariel_Lainey_DEC.png>
-Package pdftex.def Info: ../images/Ariel_Lainey_DEC.png used on input line 148.
+Package pdftex.def Info: ../images/Ariel_Lainey_DEC.png used on input line 174.
 
 (pdftex.def)             Requested size: 231.2979pt x 77.096pt.
 
@@ -284,15 +297,15 @@ Package pdftex.def Info: ../images/Ariel_Lainey_DEC.png used on input line 148.
 File: ../images/Umbriel_Lainey_DEC.png Graphic file (type png)
 
 <use ../images/Umbriel_Lainey_DEC.png>
-Package pdftex.def Info: ../images/Umbriel_Lainey_DEC.png used on input line 15
-1.
+Package pdftex.def Info: ../images/Umbriel_Lainey_DEC.png used on input line 17
+7.
 (pdftex.def)             Requested size: 231.2979pt x 77.096pt.
 
 <../images/Titania_Lainey_RA.png, id=33, 903.375pt x 301.125pt>
 File: ../images/Titania_Lainey_RA.png Graphic file (type png)
 
 <use ../images/Titania_Lainey_RA.png>
-Package pdftex.def Info: ../images/Titania_Lainey_RA.png used on input line 158
+Package pdftex.def Info: ../images/Titania_Lainey_RA.png used on input line 184
 .
 (pdftex.def)             Requested size: 231.2979pt x 77.096pt.
 
@@ -300,7 +313,7 @@ Package pdftex.def Info: ../images/Titania_Lainey_RA.png used on input line 158
 File: ../images/Oberon_Lainey_RA.png Graphic file (type png)
 
 <use ../images/Oberon_Lainey_RA.png>
-Package pdftex.def Info: ../images/Oberon_Lainey_RA.png used on input line 161.
+Package pdftex.def Info: ../images/Oberon_Lainey_RA.png used on input line 187.
 
 (pdftex.def)             Requested size: 231.2979pt x 77.096pt.
 
@@ -308,15 +321,15 @@ Package pdftex.def Info: ../images/Oberon_Lainey_RA.png used on input line 161.
 File: ../images/Titania_Lainey_DEC.png Graphic file (type png)
 
 <use ../images/Titania_Lainey_DEC.png>
-Package pdftex.def Info: ../images/Titania_Lainey_DEC.png used on input line 16
-6.
+Package pdftex.def Info: ../images/Titania_Lainey_DEC.png used on input line 19
+2.
 (pdftex.def)             Requested size: 231.2979pt x 77.096pt.
 
 <../images/Oberon_Lainey_DEC.png, id=36, 903.375pt x 301.125pt>
 File: ../images/Oberon_Lainey_DEC.png Graphic file (type png)
 
 <use ../images/Oberon_Lainey_DEC.png>
-Package pdftex.def Info: ../images/Oberon_Lainey_DEC.png used on input line 169
+Package pdftex.def Info: ../images/Oberon_Lainey_DEC.png used on input line 195
 .
 (pdftex.def)             Requested size: 231.2979pt x 77.096pt.
  [4 <../images/Ariel_Lainey_RA.png> <../images/Umbriel_Lainey_RA.png> <../image
@@ -327,13 +340,13 @@ g> <../images/Oberon_Lainey_DEC.png>]
 (./Astrometric observation of the main uranian satellites using the 26-inch ref
 ractor in Pulkovo Observatory in 2007-2016.aux) ) 
 Here is how much of TeX's memory you used:
- 2193 strings out of 494816
- 32450 string characters out of 3177879
- 98666 words of memory out of 3000000
- 5361 multiletter control sequences out of 15000+200000
+ 2194 strings out of 494816
+ 32460 string characters out of 3177879
+ 98674 words of memory out of 3000000
+ 5362 multiletter control sequences out of 15000+200000
  7887 words of font info for 28 fonts, out of 3000000 for 9000
  198 hyphenation exceptions out of 8191
- 37i,8n,23p,948b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,8n,23p,933b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
@@ -350,8 +363,8 @@ s/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy7.pfb>
 Output written on "Astrometric observation of the main uranian satellites using
- the 26-inch refractor in Pulkovo Observatory in 2007-2016.pdf" (5 pages, 24975
-2 bytes).
+ the 26-inch refractor in Pulkovo Observatory in 2007-2016.pdf" (5 pages, 25064
+1 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream

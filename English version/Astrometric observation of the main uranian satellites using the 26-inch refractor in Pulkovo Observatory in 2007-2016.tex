@@ -35,19 +35,45 @@ Current observations of Uranus are performed at the Pulkovo  with the 26-inch re
 
 We obtained one normal position of each satellite per night in the case of availability of the satellite for observations. Each normal position was calculated on the basis of five individual positions measured independently. Exposure times were within the range from 3 s to 20 s. We stacked separate CCD-images to achieve optimal quality for approximation. The number of frames in stack procedure varies from 4 to 25. Satellites' motion on the celestial sphere during observation was approximated linearly, so the average moment of time for whole series and the normal position at this moment were determined.\par
 Observations processing and coordinates measurement were performed with the IZMCCD software package (www.izmccd.puldb.ru, Izmailov et al., 1998). In case of distortion of šthe satellite image by planet halo the procedure of approximation and subtraction of the halo signals was applied.\par
-Firstly the certain area $A$ with the image distorted by planet halo was selected. In that area the uniform grid with 4 nodes on a vertical and horizontal was allocated. For each node the system of equeations (\ref{2}) was formed and solved relatively $a$, $b$, $c$ and $d$ by the least square method. 
+Firstly the certain area $A$ with the image distorted by planet halo was selected. In that area the uniform grid with 4 nodes on a vertical and horizontal was allocated. For each node the system of equeations (\ref{2}) was formed and solved relatively $a$, $b$, $c$ and $d$ by the least square method.\par
+
 \begin{equation}
 \label{2}
 I(r_i) = a + \frac{b}{r_i} + \frac{c}{r_i^2} + \frac{d}{r_i^3},
 \end{equation}
-Where \\
+where \par
+\\
 $r_i = \sqrt{(x_i-x_0)^2 + (y_i-y_0)^2}$,\\
-$(x_0, y_0)$ are coordinates of the node,\\
-$i$ is the number of equation,\\
-($x_i$, $y_i$) are coordinates of the coresponding pixel in the area A,\\
-$I(r_i)$ is a value of brightness in the pixel.\par
+$(x_0, y_0)$ -- coordinates of the node,\\
+$i$ -- the number of equation,\\
+($x_i$, $y_i$) -- coordinates of the coresponding pixel in the area A,\\
+$I(r_i)$ -- a value of brightness in the pixel.\par
+
 After such system was solved for each node we looked at the residual vectors and chose node to which the minimal residuals corresponded. Then we formed the A area of cells adjacent to the node and repeated the previous steps recurrently until the cells were size of 1 pixel. Lately we last time chose the node with the minimal vector of residuals and approximated the brightness distribution on formula (\ref{2}) with the chosen pixel as $(x_0, y_0)$.\par
-We determined the photocenters of satellites and reference stars images using approximation of image profile with the Lorenz function
+
+\begin{table}
+\begin{center}
+\caption{Halo subtracting efficience}
+\label{halo_sub}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+   &$(O-C)_\alpha$&$(O-C)_\delta$&SEM $\alpha$ &SEM $\delta$ & RMS $\alpha$ & RMS $\delta$\\
+\hline
+Ariel& -0.035 & -0.015 & 0.026 & 0.042 & 0.059 & 0.094\\
+Umbriel & 0.016 & -0.002 & 0.027 & 0.099 & 0.061 & 0.221\\
+Titania& -0.003 & 0.008 & 0.005 & 0.007 & 0.010 & 0.016\\
+Oberon & 0.009 & 0.009 & 0.003 & 0.012 & 0.006 & 0.027 \\
+\hline
+Ariel& 1.888 & -1.099 & 1.596 & 0.309 & 3.568 & 0.692\\
+Umbriel & -2.024 & -0.442 & 1.736 & 0.446 & 3.882 & 0.998\\
+Titania& 0.006 & 0.064 & 0.005 & 0.010 & 0.012 & 0.023\\
+Oberon & 0.081 & -0.045 & 0.006 & 0.011 & 0.012 & 0.026 \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+We determined the photocenters of satellites and reference stars images using approximation of image profile with the Lorenz function.\par
 
 
 \begin{equation}
@@ -79,10 +105,10 @@ We discarded data in the case of individual error of position was greater than c
 
 
 \section{Results and comparison with theory}
-Almost 7000 CCD images of Uranus and its satellites were collected from 2007 to 2016. Table \ref{number_of_points} contains the numbers of observational nights for each satellite. It corresponds to the number of normal positions obtained during the year. The quantities of the individual positions are shown in the parentheses.\par
+Almost 7000 CCD images of Uranus and its satellites were collected from 2007 to 2016. Table \ref{number_of_points} contains the numbers of observational nights for each satellite. It corresponds to the number of normal positions  obtained during the year. The quantities of the individual positions are shown in the parentheses.\par
 
 \begin{table}
-\caption{Numbers of the normal and the individual positions,  (arcsec)}
+\caption{Numbers of the normal and the individual positions}
 \label{number_of_points}
 \begin{center}
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
@@ -99,7 +125,7 @@ Oberon & 4 (21) & 7 (35) & 11 (55) & 5 (25) & 18 (90) & 13 (65) & 18 (88) & 19 (
 \end{table}
 
 Obtained normal positions are not evenly distributed over the period of observations. An increasing number of obtained positions is seen from 2007 to 2016. This effect was noticed in earlier work (Camargo et al., 2015). It is explained by change of the angle between the equatorial plane of Uranus and the tangent plane. In the beginning of observational span the equatorial plane of the planet (and also the satellites' orbital planes), was very close to perpendicular to the tangent plane. Therefore Uranian satellites spent most of the time behind the planet or right in front of it, so their coordinates could not be determined with CCD observations. This angle decreased at the end of observational period. As a result the satellites' images became more available for CCD astrometric observations.\par
-We would like to show this effect by calculating the K coefficient. Let K be a ratio of the number of normal positions obtained during an observational season to the number of nights in this season. The observational season is a period of time from the end of August to the beginning of January. šFigure (\ref{fig:K}) illustrates increasing of this ratio.\par
+We show this effect by calculating the K coefficient. Let K be a ratio of the number of normal positions obtained during an observational season to the number of nights in this season. The observational season is a period of time from the end of August to the beginning of January. šFigure (\ref{fig:K}) illustrates increasing of this ratio.\par
 
 \begin{wrapfigure}[12]{r}{0.4\linewidth} 
 \vspace{-4ex}
@@ -110,13 +136,13 @@ We would like to show this effect by calculating the K coefficient. Let K be a r
 
 
 
-We compared the positions of Uranus and its satellites with their theoretical computed positions given by INPOP13c planetary ephemeris (Fienga et al. 2014) and Lainey?s satellite ephemerides (Lainey, 2008). The ephemeridae were provided by the MULTI-SAT service (Emel'yanov and Arlot, 2008). We used the Lainey 2015 ephemeris available on the MULTI-SAT. This is an updated version of Lainey's theory.\par
+We compared the positions of Uranus and its satellites with their theoretical computed positions given by INPOP13c planetary ephemeris (Fienga et al. 2014) and Lainey's satellite ephemerides (Lainey, 2008). The ephemeridae were provided by the MULTI-SAT service (Emel'yanov and Arlot, 2008). We used the Lainey 2015 ephemeris available on the MULTI-SAT. This is an updated version of Lainey's theory.\par
 Also positions of Uranus were determined with the positions of its satellites and ephemeris distances between them and the planet. Series of the O-C differences for each satellite and for the planet are shown on plots. The mean O-C differences of RA and DEC are in the Table \ref{mean_OC_errs}. Also the standart error of the mean (SEM) and the root mean square (RMS) for each difference are shown.
 Observations show a good agreement with theory.\par
 
 \begin{table}
 \begin{center}
-\caption{Mean O-C differences of RA and DEC and errors}
+\caption{Mean O-C differences of RA ($\alpha$) and DEC ($\delta$) and errors}
 \label{mean_OC_errs}
 \begin{tabular}{|c|c|c|c|c|c|c|}
 \hline
